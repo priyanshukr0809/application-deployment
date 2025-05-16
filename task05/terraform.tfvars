@@ -49,7 +49,7 @@ app_services = {
 
 allow_ip_rule  = "allow-ip"
 allow_tag_rule = "allow-tm"
-allow-ip       = "18.153.146.156"
+allow-ip       = "18.153.146.156/32"
 
 traf_name           = "cmaz-w6544eus-mod5-traf"
 traf_routing_method = "Performance"
